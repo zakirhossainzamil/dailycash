@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/buythisapp"
+        android:title="Buy This App ?"/>
+
+    <item
+        android:id="@+id/about1"
+        android:title="About Us"/>
+</menu>

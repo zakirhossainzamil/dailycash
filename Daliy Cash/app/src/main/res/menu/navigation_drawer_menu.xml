@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:id="@+id/home"
+        android:title="Earn Money"
+        android:icon="@drawable/ic_earn_money" />
+    <item android:id="@+id/withdraw"
+        android:title="Withdraw"
+        android:icon="@drawable/ic_local_atm_black_24dp"/>
+    <item android:id="@+id/withdrawHistory"
+        android:title="Withdraw History"
+        android:icon="@drawable/ic_withdraw_history"/>
+    <item android:id="@+id/notice"
+        android:title="Notice"
+        android:icon="@drawable/ic_notice"/>
+    <item android:id="@+id/share"
+        android:title="Share"
+        android:icon="@drawable/ic_share"/>
+
+    <item android:id="@+id/facebookGroup"
+        android:title="FB Group"
+        android:icon="@drawable/ic_facebook_group"/>
+    <item android:id="@+id/vefifyAccount"
+        android:title="Verify Account"
+        android:icon="@drawable/ic_facebook_group"/>
+</menu>

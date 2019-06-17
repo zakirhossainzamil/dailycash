@@ -1,0 +1,65 @@
+<resources>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">CASH BOX</string>
+    <string name="welcome">Hello</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawerOpen">Drawer Open</string>
+    <string name="drawerClose">Drawer Close</string>
+    <string name="headerText">Using Vpn Can Suspend Your Account।</string>
+
+    <string name="infoText">******Watch 5 Sec To Complete a Impression.\n******Visit Website For 1 Minute To Avoid being Suspended</string>
+
+    <string name="youAreNotUpdatedTitle">Update Available</string>
+
+    <string name="youAreNotUpdatedMessage">A new version of Trust Money App is available. Please update to version\s</string>
+
+    <string name="youAreNotUpdatedMessage1">\s now</string>
+    <string name="update">Update</string>
+    <string name="vpn_connection_discription">We Have Found VPN service Running On you Device .DisConnect VPN Connection And Restart App In Order To Start Earning.</string>
+
+    <!-- <string name="Ad_Unit_mInterstitialAd0">ca-app-pub-4442960615390906/9603827396</string>
+    <string name="Ad_Unit_mInterstitialAd1">ca-app-pub-4442960615390906/5281439000</string>
+    <string name="Ad_Unit_mInterstitialAd2">ca-app-pub-4442960615390906/3393642263</string>-->
+
+
+    <string name="title_activity_vpnconnected">VPN Connected</string>
+    <string name="title_activity_spin_wheel">SpinWheel</string>
+    <string name="title_activity_order_payment">Order Payment</string>
+
+   <!--<string name="rewardAdId">ca-app-pub-3940256099942544/5224354917</string>-->
+    <!--<string name="rewardAdId">ca-app-pub-4442960615390906/1609076863</string>-->
+
+    <string name="bannerAdUnitId">ca-app-pub-9589251292388158/4847061134</string>
+    <!-- <string name="bannerAdUnitId">ca-app-pub-4442960615390906/7771870971</string>-->
+
+    <string name="suspendstring">আপনার একাউন্ট টি সাময়িক ভাবে সাসপেন্ড করা হয়েছে । আপনি আমাদের ফেইসবুক গুরুফে যোগাযোগ করুন । আপনার একাউন্ট আইডি নম্বর :</string>
+    <string name="suspendstring1">Your Account Is Temporary Suspended For invalid Click .Please Contract Our Facebook Group Linked in this Application main Menu With This Code :</string>
+    <string name="title_activity_click_limit_exceed">Click Limit Exceed</string>
+    <string name="clicklimit">Your Todays 6 Clicking Limit Has Exceeded. Please Try Again Tomorrow.You can Now Also Earn By referring This App. By Referring you can carn per ref er 20% Commission Also</string>
+    <string name="title_activity_about">About</string>
+
+    <string name="email">manager@businessmanbd.com</string>
+
+    <string name="profilelink">https://www.facebook.com/zakirhossainpabna</string>
+    <string name="title_activity_home">Home Page</string>
+    <string name="testInterstitialadUnit">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="notice">\1. Watch ads for 5 seconds.\n2. Visit Website for 1 Minutes Or Your Account Will Be Suspended\"</string>
+    <string name="notice2">\1.Watch Video To Complete Impression \n2. Visit Website for 1 Minutes Or Your Account Will Be Suspended\"</string>
+    <string name="notice1">\Warning !!! You Did Not Watch Ads For 5 Sec !!! Please Be Careful Your Account Will Be Suspended \</string>
+    <string name="title_activity_video">Video</string>
+    <string name="TIMERUNNINGCHECK">TIMERRUNNING</string>
+
+    <string name="register">SIGN UP</string>
+    <string name="login_email_hint">Referral Code</string>
+    <string name="login_password_hint">TrxID</string>
+    <string name="signup_login_hint">Problem On Automatic Log In? Contract Us</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="title_activity_withdrawhistory">Redeem History</string>
+    <string name="title_activity_vpn_detected">Vpn Detected</string>
+
+</resources>

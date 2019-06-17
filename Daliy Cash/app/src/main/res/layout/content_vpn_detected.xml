@@ -1,0 +1,86 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:padding="5dp">
+
+        <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView1"
+            android:layout_width="411dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="0dp"
+            ads:adSize="BANNER"
+            ads:adUnitId="@string/bannerAdUnitId"></com.google.android.gms.ads.AdView>
+
+        <TextView
+            android:id="@+id/text_appname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/title_activity_vpnconnected"
+            android:textColor="@color/text_color"
+            android:textSize="30sp"
+            android:layout_marginTop="10dp"
+
+            />
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/box1"
+            android:layout_margin="20dp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/text_color"
+            android:text="Virsion : 1.0.0"
+            />
+
+        <TextView
+            android:padding="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/text_color"
+            android:text="@string/vpn_connection_discription"
+            android:layout_marginBottom="20dp"
+            />
+
+        <RelativeLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="51dp"
+            android:layout_gravity="bottom"
+            android:gravity="bottom"
+            tools:context=".Activities.MainActivity">
+
+            <com.google.android.gms.ads.AdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="0dp"
+                ads:adSize="BANNER"
+                ads:adUnitId="@string/bannerAdUnitId">
+
+            </com.google.android.gms.ads.AdView>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>
